@@ -1,5 +1,5 @@
 # create variable number1 with value 9
-number1 = 9
+number1 = 11
 
 # create variable number2 with value 5
 number2 = 11
