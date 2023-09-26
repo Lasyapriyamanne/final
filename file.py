@@ -6,6 +6,7 @@ number2 = 11
 
 # add number1 and number2
 result = number1+number2
+#print result
 print(result)
 
 
