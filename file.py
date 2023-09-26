@@ -2,7 +2,7 @@
 number1 = 9
 
 # create variable number2 with value 5
-number2 = 5
+number2 = 10
 
 # add number1 and number2
 result = number1+number2
