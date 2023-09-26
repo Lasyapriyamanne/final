@@ -1,5 +1,3 @@
-# Replace ___ with your code
-
 # create variable number1 with value 9
 number1 = 9
 
@@ -7,6 +5,7 @@ number1 = 9
 number2 = 5
 
 # add number1 and number2
-result = number1 ___ number2
+result = number1+number2
+print(result)
 
 
