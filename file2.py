@@ -1,6 +1,6 @@
 # Python program to swap two variables
 
-x = 22
+x = 13
 y = 11
 
 # To take inputs from the user
